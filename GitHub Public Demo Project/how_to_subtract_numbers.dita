@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_subtract_numbers">
+    <title>How to Subtract Numbers</title>
+    <shortdesc>This is a help topic that describes how to subtract two numbers using Windows'
+        Calculator app.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_qrz_wk4_b5b">You should have the basic arithmatic knowledge about
+            subtraction. Also, you should know how to open the Calculator app in Windows.</prereq>
+        <steps>
+            <stepsection>
+                <p>Proceed as follows:</p>
+            </stepsection>
+            <step>
+                <cmd>Open the Calculator app in your Windows machine. </cmd>
+                <info>The <i>Standard </i>verison of the Calculator app will be sufficient for this
+                    procedure. You do not need the <i>Scientific</i> verstion.</info>
+            </step>
+            <step>
+                <cmd>Enter the first number or <i>minuend</i>.</cmd>
+                <info>You may either key in the number directly or click the relevant number buttons
+                    on the Calculator app.</info>
+            </step>
+            <step>
+                <cmd>Click the <b>Minus</b> button on the Calculator app. Alternatively, you may
+                    click the <b>Minus</b> Key on your keyboard.</cmd>
+            </step>
+            <step>
+                <cmd>Enter the second number or <i>subtrahend</i>.</cmd>
+                <info>You may either key in the number directly or click the relevant number buttons
+                    on the Calculator app.</info>
+            </step>
+            <step>
+                <cmd>Click the <b>Equal</b> button on the app. Alternatively, you may press the
+                        <b>Equal</b> key on your keyboard.</cmd>
+            </step>
+        </steps>
+        <result id="result_ety_rcp_b5b">The difference between the minuend and subtrahend is
+            displayed in the display area of the Calculator.</result>
+    </taskbody>
+</task>

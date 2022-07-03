@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_subtration">
+    <title>What is Subtration?</title>
+    <shortdesc>This topic describes what is subtraction operation in Arithmatic.</shortdesc>
+    <conbody>
+        <p>In Arithmatic, to subtract means to take away or deduct from a group or a number of
+            things. In a subtraction problem, we take away a smaller number, called
+                <i>subtrahend</i>, from a larger number, called <i>minuend</i>. The result of
+            subtraction is called the <i>difference</i>.</p>
+        <example id="example_xqk_bjp_b5b">
+            <p><b>Example:</b></p>
+            <p><i>8</i> - <i>3 </i>= <i>5</i></p>
+            <p>Here 8 is the minuend, 3 is the subtrahend and 5 is the difference.</p>
+        </example>
+    </conbody>
+</concept>
